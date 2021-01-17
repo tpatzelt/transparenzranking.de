@@ -14,9 +14,9 @@
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/knutator2/ifg-index/issues"
+    "url": "https://github.com/tpatzelt/transparenzranking.de/issues"
   },
-  "homepage": "https://github.com/knutator2/ifg-index#readme",
+  "homepage": "https://github.com/tpatzelt/transparenzranking.de#readme",
   "dependencies": {
     "js-yaml": "^3.7.0",
     "jsonfile": "^2.4.0",
